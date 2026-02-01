@@ -20,7 +20,7 @@
    ```
 
 2. **运行脚本**
-   默认会将当前目录下的图片转换为 PDF。
+   默认会将 ./src_img 下的图片转换为 ./dst_img 下的 PDF 文件。
    ```bash
    python convert_to_pdf.py
    ```
